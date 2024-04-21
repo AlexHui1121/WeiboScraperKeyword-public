@@ -1,0 +1,9 @@
+start venv
+python -m pip install virtualenv
+python -m venv myenv
+
+
+In command promp
+cd OneDrive - The Hong Kong Polytechnic University\FYP\WeiboScraper v3
+.venv\Scripts\activate
+deactivate
